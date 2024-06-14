@@ -9,7 +9,6 @@ function Type() {
           "Software Developer",
           "Full Stack Developer",
           "Stock Market Trader",
-          "Photogapher",
         ],
         autoStart: true,
         loop: true,
