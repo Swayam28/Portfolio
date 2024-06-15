@@ -43,7 +43,7 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiExpress />
-        <h3>ExpressJs</h3>
+        <h3>ExpressJS</h3>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />

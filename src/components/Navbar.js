@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-
+import logo from "../Assets/logo.png";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
       
-        <img src="https://avatars.githubusercontent.com/u/109027565?s=96&v=4" alt="Swayam Pati" style={{width: "50px", height: "50px", borderRadius: "50%"}} />
+        <img src={logo} alt="Swayam Pati" style={{width: "40px", height: "40px", borderRadius: "50%"}} />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
