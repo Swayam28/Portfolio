@@ -28,7 +28,7 @@ function Projects() {
               title="Crypto Pilot"
               description="Our React-based crypto tracker, powered by JavaScript and the CoinGecko API, provides real-time tracking of over 500 cryptocurrencies, alongside a dashboard displaying data for 10+ digital currencies, boosting user engagement by 40% and retention by 25%. Implemented search functionality allows for easy access to specific cryptocurrency information, offering users a comprehensive and user-friendly platform to navigate the dynamic world of digital assets."
               ghLink="https://github.com/Swayam28/CryptoPilot"
-              demoLink="https://crypto-pilot.netlify.app/"
+              demoLink="https://cryptopilot-swayam.netlify.app/"
             />
           </Col>
 
@@ -60,6 +60,7 @@ function Projects() {
               isBlog={false}
               title="Smart Harvest"
               description="It revolutionizes plant care by offering real-time tracking of crucial environmental factors. Through sensors integrated with the platform, users can monitor humidity, temperature, water levels, and carbon dioxide levels for their plants. This comprehensive tracking system empowers users to optimize their plant care routines, ensuring ideal growing conditions and maximizing harvest yields. With user-friendly interfaces and customizable alerts, the Smart Harvest website simplifies plant care management, making it accessible to both novice and experienced growers."
+              
                          
             />
           </Col>
@@ -70,6 +71,8 @@ function Projects() {
               isBlog={false}
               title="Smart Chat"
               description="a groundbreaking platform engineered with the MERN stack (MongoDB, Express, React, and Node.js), designed to elevate your chat experience. Smart Chat harnesses the extensive capabilities of ChatGPT replica, offering a diverse range of services including paragraph composition, summarization, JavaScript code generation, and even the production of sci-fi images. With a focus on security, user login credentials are securely stored in a MongoDB database, ensuring the highest levels of data integrity and confidentiality. Smart Chat sets a new standard for intelligent and secure communication, revolutionizing the way users interact and engage online."
+              ghLink="https://github.com/Swayam28/SmartChat"
+              demoLink="https://smartchat-swayam.netlify.app/"
                         
             />
           </Col>
