@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
       
-        <img src={logo} alt="Swayam Pati" style={{width: "40px", height: "40px", borderRadius: "50%"}} />
+        <img src={logo} alt="Swayam Pati" style={{width: "50px", height: "50px", borderRadius: "50%"}} />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
