@@ -26,10 +26,10 @@ function AboutCard() {
               <ImPointRight /> Stock Market Trader
             </li>
             <li className="about-activity">
-              <ImPointRight /> Co-owner of a small business || BeyondGifts
+              <ImPointRight /> Co-Founder At BeyondGifts
             </li>
             <li className="about-activity">
-              <ImPointRight /> Photographer
+              <ImPointRight /> Visual Content Creator
             </li>
           </ul>
 
